@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "안드로이드 스튜디오 파이에베이스를 이용해 회원가입 로그인 하기"
+title: "안드로이드 스튜디오 파이어베이스를 이용해 회원가입 로그인 하기"
 tags: [ParkHanbaek, firebase, kotlin, android studio, 안드로이드 스튜디오 연동하기, 삽질의 흔적]
 comments: true
 ---
